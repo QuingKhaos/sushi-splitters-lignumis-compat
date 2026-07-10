@@ -16,5 +16,6 @@
     "sushi-splitters >= 0.2.1",
     "sushi-splitters-lib >= 1.0.0",
     "? wood-logistics >= 2.5.5"
-  ]
+  ],
+  "space_travel_required": true
 }
