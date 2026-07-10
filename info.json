@@ -1,12 +1,19 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESCRIPTION###",
+  "name": "sushi-splitters-lignumis-compat",
+  "title": "Sushi Splitters: Lignumis Compatibility",
+  "description": "Adds sushi splitters support to Lignumis.",
   "author": "QuingKhaos",
   "homepage": "",
   "version": "1.0.0",
   "factorio_version": "2.0",
   "dependencies": [
-    "base >= 2.0.0"
+    "base >= 2.0.77",
+
+    "flib >= 0.16.5",
+    "khaoslib >= 1.6.0",
+
+    "lignumis >= 1.10.0",
+    "sushi-splitters >= 0.2.1",
+    "sushi-splitters-lib >= 1.0.0"
   ]
 }
