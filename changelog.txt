@@ -3,3 +3,5 @@ Version: 1.0.0
 Date: 2026-07-10
   Features:
     - Add sushi splitters support to Lignumis.
+  Compatibility:
+    - Add compatibility layer if wooden logistics is installed, to avoid adding the wood splitter twice.

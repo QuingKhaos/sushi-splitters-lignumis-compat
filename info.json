@@ -14,6 +14,7 @@
 
     "lignumis >= 1.10.0",
     "sushi-splitters >= 0.2.1",
-    "sushi-splitters-lib >= 1.0.0"
+    "sushi-splitters-lib >= 1.0.0",
+    "? wood-logistics >= 2.5.5"
   ]
 }

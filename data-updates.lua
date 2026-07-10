@@ -2,6 +2,7 @@ local flib_locale = require("__flib__.locale")
 local khaoslib_recipe = require("__khaoslib__.recipe")
 local khaoslib_technology = require("__khaoslib__.technology")
 
+-- Create recipe copies with gold cable instead of copper cable
 khaoslib_recipe.copy("sushi-wood-splitter", "gold-sushi-wood-splitter")
   :set {localised_name = flib_locale.of("recipe", "sushi-wood-splitter")}
   :replace_ingredient("copper-cable", function (ingredient)
