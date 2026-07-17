@@ -1,21 +1,16 @@
 {
   "name": "sushi-splitters-lignumis-compat",
   "title": "Sushi Splitters: Lignumis Compatibility",
-  "description": "Adds sushi splitters support to Lignumis.",
+  "description": "[DEPRECATED] Functionality migrated to Sushi Splitters and More.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
+    "space-age >= 2.0.77",
 
-    "flib >= 0.16.5",
-    "khaoslib >= 1.6.0",
-
-    "lignumis >= 1.10.0",
-    "sushi-splitters >= 0.2.1",
-    "sushi-splitters-lib >= 1.0.0",
-    "? wood-logistics >= 2.5.5"
+    "sushi-splitters-and-more >= 1.0.0"
   ],
   "space_travel_required": true
 }
